@@ -1,2 +1,2 @@
-# UBR-Updater
+# FastForwardUpdater
 Universal bypass updater for chrome
