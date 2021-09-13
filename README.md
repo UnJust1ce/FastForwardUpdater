@@ -1,2 +1,2 @@
 # FastForwardUpdater
-Universal bypass updater for chrome
+FastForward updater for chrome
